@@ -12,7 +12,7 @@ public class IncrementTest
 		System.out.println("a:" +a);
 		System.out.println("a:" +b);
 		System.out.println("a:" +i);
-		System.out.println("a:" +j);
+		System.out.println("a:" +j);//
 	}
 }
 	

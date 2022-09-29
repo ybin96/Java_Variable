@@ -3,7 +3,7 @@ package practice;
 import java.util.Scanner;
 public class Exam03
 {
-	final static double PER = 454;      //상수 만드는방법 (class안에 만들기,대문자로 작성)
+	final static double PER = 454;      //상수 만드는방법 (class안에 만들기,대문자로 작성) //
 	public static void main(String []args)
 	{
 		Scanner sc = new Scanner(System.in);

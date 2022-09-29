@@ -1,6 +1,6 @@
 package study;
 
-// 문자열변수 data에 저장된 소문자 e는 모두 몇개 있는지 파악하여 출력
+// 문자열변수 data에 저장된 소문자 e는 모두 몇개 있는지 파악하여 출력한다.
 
 public class CharTest
 {

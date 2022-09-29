@@ -11,6 +11,6 @@ public class IntAndDouble
 		double result3 = a/(double)b;
 		System.out.println(result);
 		System.out.println(result2);
-		System.out.println(result3);
+		System.out.println(result3);//
 	}
 }

@@ -8,8 +8,8 @@ public class IncreDecreTest
 		int b = 5;
 		++a;
 		b++;
-		System.out.println(a);  //6
-		System.out.println(b);  //6
+		System.out.println(a);  // 6
+		System.out.println(b);  // 6
 
 		int c = 5;
 		int d = 5;

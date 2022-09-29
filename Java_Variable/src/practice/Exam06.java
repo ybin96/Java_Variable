@@ -9,7 +9,7 @@ public class Exam06
 		Scanner sc = new Scanner(System.in);
 		Date today = new Date();
 
-		int thisYear = today.getYear() + 1900; // 현재년도를 가져오는 수식
+		int thisYear = today.getYear() + 1900; // 현재년도를 가져오는 수식.
 		String name;
 		int year;
 		int age;

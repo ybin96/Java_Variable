@@ -12,7 +12,7 @@ public class Exam05
 		System.out.println("시간을 초단위로 입력하시오");
 		input = sc.nextInt();
 									// 60*60 == 3600 , 3662 1시간 1분 2초
-		hours = input / (60*60);    // 1시간
+		hours = input / (60*60);    // 1시간.
 		seconds = input % (60*60);  // 62
 		minutes = seconds / 60;   // 1
 		seconds = seconds % 60;    //2

@@ -4,7 +4,7 @@ public class StringTest
 {
 	public static void main(String[] args) 
 	{
-		String data = "ab c"; // 빈칸도 한글자로 받아들임
+		String data = "ab c"; // 빈칸도 한글자로 받아들여짐//
 		int n = data.length();
 		System.out.println(n); 
 		char ch = data.charAt(2);

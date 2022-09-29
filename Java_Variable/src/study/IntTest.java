@@ -13,7 +13,7 @@ public class IntTest
 
 		/*byte data;
 		data = 127;
-		data = (byte)(data +1);   // overflow현상, 127에서 한바퀴돌아서 -128이 표현됌
+		data = (byte)(data +1);   // overflow현상, 127에서 한바퀴돌아서 -128이 표현
 		System.out.println(data);
 
 		byte data2;

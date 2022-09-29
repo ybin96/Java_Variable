@@ -4,7 +4,7 @@ public class BooleanTest
 {
 	public static void main(String[] args) 
 	{
-		boolean flag;  // 변수를 선언
+		boolean flag;  // 변수를 선언.
 		flag= true;    // 값을 저장
 		// boolean flag = true;
 		
