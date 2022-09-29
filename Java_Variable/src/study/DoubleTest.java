@@ -1,6 +1,6 @@
 package study;
 
-public class DoubleTest 
+public class DoubleTest
 {
 	public static void main(String[] args) 
 	{
